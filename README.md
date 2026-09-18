@@ -34,10 +34,10 @@ Practice projects and experiments built with React.
 
 ### UI using CSS
 
-Projects focused on UI design and frontend styling.
+- Projects focused on UI design and frontend styling.
 
 #### Gamu_Gamu_Template
-A simple frontend template created for learning and practicing CSS layouts and design concepts.
+- A simple frontend template created for learning and practicing CSS layouts and design concepts.
 
 ### Express / HTTP
 
@@ -80,5 +80,3 @@ These projects were built while exploring:
 GitHub: https://github.com/ShreyasSukhadiya
 
 ---
-
-*"Every expert was once a beginner. This repository documents that beginning."*
